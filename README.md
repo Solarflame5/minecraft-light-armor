@@ -7,10 +7,11 @@ My pack:
 
 ![Solar's pack](images/solar.png)
 
+Default textures:
+
+![Default textures](images/vanilla.png)
+
 Dresdom's pack:
 
 ![Dresdom's pack](images/dresdom.png)
 
-Default textures:
-
-![Default textures](images/vanilla.png)
